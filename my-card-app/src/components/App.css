@@ -25,7 +25,7 @@ img {
 }
 
 .info--title {
-    letter-spacing: 0.09em;
+    letter-spacing: 0.02em;
     color: whitesmoke;
     margin: 10px;
     padding-top: 15px;
@@ -47,7 +47,7 @@ img {
 .info--btn > button {
     border-radius: 5px;
     margin-top: 20px;
-    width: 40%;
+    width: 10em;
     height: 40px;
     text-transform: capitalize;
     font-size: medium;
@@ -64,14 +64,12 @@ button:hover {
 }
 
 .info--email {
-    margin-right: 6.5px;
     font-weight: 400;
     background-color: aliceblue;
     color: black;
 }
 
 .info--linkedin {
-    margin-left: 6.5px;
     font-weight: 600;
     background-color: #7a67ef;
     color: white;
